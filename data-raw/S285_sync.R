@@ -28,7 +28,7 @@ system("rsync -av ~/data/studata/Data/LTA/C282*.LTA ~/data/SEA/C282/ADCP")
 S285 <- sea::package_data("~/data/SEA/S285")
 
 # Add the data to the package
-devtools::use_data(S285,overwrite = TRUE)
+usethis::use_data(S285,overwrite = TRUE)
 
 # # Create ODV
 # source("~/Documents/SEA/C282_OE/R/C282_ODV.R")
