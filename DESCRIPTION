@@ -1,7 +1,7 @@
 Package: S285
 Type: Package
 Title: Data package for data from the SEA S285 Cruise from New Zealand to Tahiti
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: person("Ben", "Harden", email = "bharden@sea.edu", role = c("aut", "cre"))
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
